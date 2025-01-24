@@ -1,1 +1,2 @@
-Gatsby is first book add change for commit test vscode
+trying to amend
+now i am ammending
